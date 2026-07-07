@@ -68,6 +68,7 @@ Every problem is implemented with readability and simplicity in mind, making thi
 - Sunny Number
 - Sphenic Number
 - Smith Number
+- Sophie Germain Prime
 - Square Free Number
 - Tech Number
 - Twin Primes Number
@@ -80,8 +81,12 @@ Every problem is implemented with readability and simplicity in mind, making thi
 
 ### ➗ Arithmetic
 
+- Distance Formual
 - Factorial
 - Multiplication Table
+- Midpoint Formula
+- Mean Median Mode
+- Nested Arary Sum
 - Odd / Even
 - Palindrome Check
 
