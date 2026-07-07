@@ -1,3 +1,5 @@
+/* WAP to implement Distance Formula */
+
 let p1 = [10, 20];
 let p2 = [5, 15];
 
